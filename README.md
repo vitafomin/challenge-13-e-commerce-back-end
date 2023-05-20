@@ -14,7 +14,7 @@ For this application to work express.js, MySQL, Sequelize, and dotenv needs to b
 This is a great application for anyone looking to open or manage a internent retail company. It allows you to view all and specific the data within your company. It allow you to add, update and delete any data you desire. It is very efficient and saves you time. As all the business owners know time is money, so you know that this is the application for you!
 
 https://github.com/vitafomin/challenge-13-e-commerce-back-end
-
+https://drive.google.com/file/d/1f4HXktN2RHKw87x2zTZRiIgJxUAD0p-r/view
 
 ## Credits
 
